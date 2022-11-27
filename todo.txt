@@ -1,0 +1,27 @@
+1.설치
+pip install virtualenv
+pip install django
+pip install django-rest-framework
+pip install django-cors-headers
+pip install djoser
+pip install pillow
+pip install stripe
+
+1.FRONTEND
+Vue 설치
+npm install -g @vue/cli
+vue create project_vue
+localhost:8080
+
+fontawsome
+vueproject -> public -> index.html
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous"/>
+
+css
+npm install bulma
+
+
+2.BACKEND
+startapp prodect
+prodect => models.py
+
